@@ -6,7 +6,7 @@ help [options] [pattern]
 ⦁ [options] digunakan untuk mengubah perilaku default command help dengan menggunakan berbagai opsi yang tersedia.
 ⦁ [pattern adalah topik yang ingin di cari bantuannya. Dengan kata lain, di sinilah kita menentukan nama command yang diinginkan.
 
-<h3>Dapatkan bantuan dari command help itu sendiri</h3>
+<h3>Mendapatkan bantuan dari command help itu sendiri</h3>
 Ini akan menunjukkan apa yang seharusnya Anda harapkan dari command help:
 
 ```
@@ -37,7 +37,7 @@ nyctoselene@Nyctoselene:~$
 ```
 Setelah Anda menjalankan command help, ia akan menampilkan deskripsi singkat command yang ditentukan beserta opsi yang tersedia.
 
-<h3>Dapatkan informasi command dalam man page</h3>
+<h3>Mendapatkan informasi command dalam man page</h3>
 Man page memberikan deskripsi command, deskripsi opsi, dan lainnya.
 
 Untuk menggunakan command help untuk mendapatkan informasi dalam format man page, gunakan syntax berikut:
